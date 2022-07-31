@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e665f62e.css","mappings":"AACA,MAEI,QAAS,CACT,eAAgB,CAFhB,SAGJ","sources":["css/index.css"],"sourcesContent":["/* 根元素，考虑让其 min-height: 100%; 以在之后方便添加背景等 */\n#root {\n    padding: 0;\n    margin: 0;\n    min-height: 100%;\n}"],"names":[],"sourceRoot":""}
